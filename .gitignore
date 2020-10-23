@@ -3,3 +3,7 @@
 .gradle
 .idea
 build/classes/
+
+*.class
+application-oauth.properties
+build/

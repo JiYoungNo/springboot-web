@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
  * 프로젝트 최상단에 위치 -> Application이 있는 위치부터 설정을 읽어옴
  * 
  */
-@EnableJpaAuditing
+//@EnableJpaAuditing
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) {
